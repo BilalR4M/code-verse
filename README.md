@@ -1,4 +1,4 @@
-# CodeVerse - Coding Typing Test
+# code-verse - Coding Typing Test
 
 A Monkeytype-style typing test specifically designed for coding practice. Users type real code snippets and are scored on speed, accuracy, and syntax discipline.
 
